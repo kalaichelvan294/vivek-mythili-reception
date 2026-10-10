@@ -185,13 +185,13 @@ img {
 
 .curtain-panel-left {
     margin-right: -1px;
-    background-image: url(https://github.com/kalaichelvan294/public/blob/cea03affb7deba1838f4a0b4aaa77bde77859b17/vm-e-invite/curtain-left.webp?raw=true);
+    background-image: url(https://raw.githubusercontent.com/kalaichelvan294/public/main/vm-e-invite/curtain-left.webp);
     transform-origin: left center
 }
 
 .curtain-panel-right {
     margin-left: -1px;
-    background-image: url(https://github.com/kalaichelvan294/public/blob/cea03affb7deba1838f4a0b4aaa77bde77859b17/vm-e-invite/curtain-right.webp?raw=true);
+    background-image: url(https://raw.githubusercontent.com/kalaichelvan294/public/main/vm-e-invite/curtain-right.webp);
     transform-origin: right center
 }
 
